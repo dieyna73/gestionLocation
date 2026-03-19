@@ -1,0 +1,42 @@
+19-Mar-2026 01:58:54.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/9.0.115
+19-Mar-2026 01:58:54.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Jan 21 2026 08:17:26 UTC
+19-Mar-2026 01:58:54.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               9.0.115.0
+19-Mar-2026 01:58:54.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+19-Mar-2026 01:58:54.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+19-Mar-2026 01:58:54.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+19-Mar-2026 01:58:54.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Users\DELL\.jdks\openjdk-25.0.2
+19-Mar-2026 01:58:54.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      25.0.2+10-69
+19-Mar-2026 01:58:54.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+19-Mar-2026 01:58:54.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\DELL\Desktop\gestion-locations\src\main\webapp
+19-Mar-2026 01:58:54.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\apache-tomcat-9.0.115
+19-Mar-2026 01:58:54.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+19-Mar-2026 01:58:54.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+19-Mar-2026 01:58:54.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+19-Mar-2026 01:58:54.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+19-Mar-2026 01:58:54.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-Mar-2026 01:58:54.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\apache-tomcat-9.0.115
+19-Mar-2026 01:58:54.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\DELL\Desktop\gestion-locations\src\main\webapp
+19-Mar-2026 01:58:54.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\DELL\Desktop\gestion-locations\src\main\webapp\temp
+19-Mar-2026 01:58:54.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\DELL\Desktop\gestion-locations\src\main\webapp\conf\logging.properties
+19-Mar-2026 01:58:54.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Mar-2026 01:58:54.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.3.3\lib\idea_rt.jar=64445
+19-Mar-2026 01:58:54.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+19-Mar-2026 01:58:54.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dsun.stdout.encoding=UTF-8
+19-Mar-2026 01:58:54.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dsun.stderr.encoding=UTF-8
+19-Mar-2026 01:58:54.671 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [1.3.5] en utilisant APR version [1.7.6]
+19-Mar-2026 01:58:54.673 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Fonctionnalités d'APR : IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true]
+19-Mar-2026 01:58:54.673 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Configuration de APR/OpenSSL : useAprConnector [false], useOpenSSL [true]
+19-Mar-2026 01:58:54.746 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.18 30 Sep 2025]
+19-Mar-2026 01:58:55.470 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+19-Mar-2026 01:58:55.511 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [1714] millisecondes
+19-Mar-2026 01:58:55.597 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+19-Mar-2026 01:58:55.598 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/9.0.115]
+19-Mar-2026 01:58:55.615 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\DELL\Desktop\gestion-locations\src\main\webapp\conf\Catalina\localhost\gestion-locations.xml]
+19-Mar-2026 01:58:59.076 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès ; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+19-Mar-2026 01:58:59.217 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\DELL\Desktop\gestion-locations\src\main\webapp\conf\Catalina\localhost\gestion-locations.xml] a pris [3 593] ms
+19-Mar-2026 01:58:59.222 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+19-Mar-2026 01:58:59.268 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [3753] millisecondes
+19-Mar-2026 01:59:16.236 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+19-Mar-2026 01:59:16.282 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+19-Mar-2026 01:59:16.304 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+19-Mar-2026 01:59:16.320 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]

@@ -1,0 +1,1 @@
+# TODO: Fix 404 errors on all routes\n\n✅ Step 1: Updated conf/Catalina/localhost/gestion-locations.xml (docBase → target/gestion-locations)\n\n⏳ Step 2: Add explicit servlet mappings to src/main/webapp/WEB-INF/web.xml\n\n⏳ Step 3: mvn clean package\n\n⏳ Step 4: Restart Tomcat\n\n⏳ Step 5: Test http://localhost:8080/gestion-locations/login\n\n⏳ Step 6: Verify logs
